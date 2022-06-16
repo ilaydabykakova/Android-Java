@@ -13,11 +13,6 @@ git clone https://github.com/ilaydabykakova/Android-Java.git
 
 Projeyi cloneladıktan sonra Android Studio programında açınız.
 
-Linux için:
-```linux
-cd android-java
-code .
-```
 ## Output
 Java ile ilgili derslerde çıktıyı görebilmek için "Run 'Main.main()' with Coverage" option kullanabilirsiniz.
 
