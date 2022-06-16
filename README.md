@@ -1,5 +1,5 @@
 # Android-Java
-This project is Android with Java lessons and  there are basics projects in this field.
+This project is Android with Java lessons and  there are basics apps in this field.
 
 ## Installation
 
