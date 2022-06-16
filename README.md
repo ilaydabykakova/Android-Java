@@ -19,7 +19,7 @@ cd android-java
 code .
 ```
 ## Output
-Java ile ilgili derslerde çıktıyı görebilmek için "Run 'Main.main()' with Coverage" option kullanabilirsiniz
+Java ile ilgili derslerde çıktıyı görebilmek için "Run 'Main.main()' with Coverage" option kullanabilirsiniz.
 
 
 ## License
